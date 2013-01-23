@@ -1,3 +1,5 @@
-jQuery(document).ready(function($){
+if (typeof(jQuery) != 'undefined') {
+	jQuery(document).ready(function($){
 
-});
+	});
+}
