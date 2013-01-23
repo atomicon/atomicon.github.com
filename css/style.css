@@ -13,7 +13,10 @@ img { max-width: 100%;}
 
 /* #Page Styles
 ================================================== */
-
+a.logo {
+	display: block;
+	text-align: center;
+}
 /* #Media Queries
 ================================================== */
 
